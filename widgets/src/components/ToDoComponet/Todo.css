@@ -1,0 +1,30 @@
+.todo {
+  margin: 0 auto;
+}
+.todo-add {
+  display: flex;
+}
+
+.list-item {
+  display: flex;
+}
+
+.list-group-item {
+  font-size: 32px;
+}
+
+.fas {
+  margin: 0 10px;
+}
+
+.fas:hover {
+  cursor: pointer;
+}
+
+.fa-trash-alt {
+  color: red;
+}
+
+.fa-edit {
+  color: blue;
+}
