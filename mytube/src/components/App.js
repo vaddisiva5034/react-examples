@@ -3,7 +3,7 @@ import SeachBar from "./SeachBar";
 import youtube from "../api/youtube";
 import VideoList from "./VideoList";
 import VideoDetails from "./VideoDetails";
-const KEY = "AIzaSyD35fb5IhcVPgHaDeWjJVLjifKqQO3x_Xk";
+const KEY = "";
 
 export default class App extends Component {
   state = {
